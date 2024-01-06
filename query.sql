@@ -17,18 +17,3 @@ GROUP BY genre_type;
 SELECT category_name, AVG(app_size) as avg_app_size
 FROM App
 GROUP BY category_name;
-
-
-
-
-
-
-
-
-
-
-
-
-
-select * from app
-
